@@ -70,8 +70,11 @@ I am interested in **web development, artificial intelligence, data processing, 
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🌐 Connect With Me
+
+</div>
 
 <div align="center">
 
