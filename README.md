@@ -1,4 +1,4 @@
-## HELLO WORLD!  I'm SAMSUL HIDAYAT 👋
+## HELLO WORLD!  I'm Samsul Hidayat 👋
 
 <!--
 **samsulhidayat123/samsulhidayat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->- 🔭 I’m currently working on ...
+
 ![HI Bro](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGljZmhzZm9jcGk4eml1OHI1OHUyNTVvcGU2aTc1cm1lcWhodGRtMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3NjABnBOieYQE4BpkP/giphy.gif)
 
