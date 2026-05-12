@@ -1,19 +1,95 @@
-## HELLO WORLD!  I'm Samsul Hidayat 👋
+<div align="center">
 
-<!--
-**samsulhidayat123/samsulhidayat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HELLO WORLD! 👋  
+## I'm Samsul Hidayat
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Young+Teacher+%26+Tech+Enthusiast;Web+Developer+in+Progress;Building+Useful+Digital+Products" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->- 🔭 I’m currently working on ...
+<br>
 
 ![HI Bro](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGljZmhzZm9jcGk4eml1OHI1OHUyNTVvcGU2aTc1cm1lcWhodGRtMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3NjABnBOieYQE4BpkP/giphy.gif)
 
+</div>
+
+---
+
+## 🚀 About Me
+
+Hi, I'm **Samsul Hidayat**, a Computer Science student who loves building web-based systems, learning new technologies, and creating digital products that are useful in real life.
+
+I am interested in **web development, artificial intelligence, data processing, educational technology, and digital business**.
+
+- 🔭 Currently working on: **Web-based systems, AI projects, and educational technology**
+- 🌱 Currently learning: **Flask, React, Supabase, OpenCV, Machine Learning**
+- 👨‍🏫 Also active as: **Young teacher and tech learner**
+- 💡 Interested in: **Web App, AI, IoT, OMR, NLP, and Automation**
+- ⚡ Fun fact: I like turning ideas into real projects
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7D000?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Tools  
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-7C3AED?style=for-the-badge&logo=vite&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+---
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=samsulhidayat123&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsulhidayat123&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧩 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samsulhidayat123&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-samsulhidayat123-181717?style=for-the-badge&logo=github)](https://github.com/samsulhidayat123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samaul1245sh@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/by.samsul_)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow_Me-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@projct.78)
+</div>
+
+---
+
+<div align="center">
+
+### "Code, Learn, Build, Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=120&section=footer" />
+
+</div>
