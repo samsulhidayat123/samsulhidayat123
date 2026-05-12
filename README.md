@@ -53,11 +53,11 @@ I am interested in **web development, artificial intelligence, data processing, 
 
 ## 📊 GitHub Stats
 
+## 🔥 GitHub Streak
+
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=samsulhidayat123&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsulhidayat123&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=samsulhidayat123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -87,6 +87,18 @@ I am interested in **web development, artificial intelligence, data processing, 
 ---
 
 <div align="center">
+
+## 🕹️ Pacman Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samsulhidayat123/samsulhidayat123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samsulhidayat123/samsulhidayat123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samsulhidayat123/samsulhidayat123/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 
 ### "Code, Learn, Build, Repeat."
 
