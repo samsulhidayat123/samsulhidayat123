@@ -15,8 +15,6 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Samsul Hidayat**, a Computer Science student who loves building web-based systems, learning new technologies, and creating digital products that are useful in real life.
-
 I am interested in **web development, artificial intelligence, data processing, educational technology, and digital business**.
 
 - 🔭 Currently working on: **Web-based systems, AI projects, and educational technology**
