@@ -12,8 +12,12 @@
 </div>
 
 ---
+<div align="center">
 
 ## 🚀 About Me
+
+</div>
+
 
 I am interested in **web development, artificial intelligence, data processing, educational technology, and digital business**.
 
@@ -24,8 +28,12 @@ I am interested in **web development, artificial intelligence, data processing, 
 - ⚡ Fun fact: I like turning ideas into real projects
 
 ---
+<div align="center">
 
 ## 🧠 Tech Stack
+
+</div>
+
 
 <div align="center">
 
@@ -48,10 +56,13 @@ I am interested in **web development, artificial intelligence, data processing, 
 ---
 
 ---
+<div align="center">
 
 ## 📊 GitHub Stats
 
 ## 🔥 GitHub Streak
+
+</div>
 
 <div align="center">
 
@@ -60,8 +71,11 @@ I am interested in **web development, artificial intelligence, data processing, 
 </div>
 
 ---
+<div align="center">
 
 ## 🧩 GitHub Activity
+
+</div>
 
 <div align="center">
 
