@@ -79,7 +79,9 @@ I am interested in **web development, artificial intelligence, data processing, 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samsulhidayat123&theme=tokyonight&hide_border=true" />
+![Samsul's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsulhidayat123&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsulhidayat123&layout=compact&theme=dracula)
 
 </div>
 
