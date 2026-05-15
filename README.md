@@ -79,9 +79,11 @@ I am interested in **web development, artificial intelligence, data processing, 
 
 <div align="center">
 
-![Samsul's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsulhidayat123&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsulhidayat123&layout=compact&theme=dracula)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samsulhidayat123/samsulhidayat123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samsulhidayat123/samsulhidayat123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samsulhidayat123/samsulhidayat123/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
@@ -104,18 +106,6 @@ I am interested in **web development, artificial intelligence, data processing, 
 ---
 
 <div align="center">
-
-## 🕹️ Pacman Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samsulhidayat123/samsulhidayat123/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samsulhidayat123/samsulhidayat123/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samsulhidayat123/samsulhidayat123/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
 
 ### "Code, Learn, Build, Repeat."
 
